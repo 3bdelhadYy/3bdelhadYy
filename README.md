@@ -7,7 +7,7 @@ I’m interested in machine learning, deep learning, computer vision, and commun
 
 💡 Interested in bridging theory (math & signals) with real-world AI systems.
 
-🚀 Currently focused on representation learning and computer vision systems.
+### 🚀 Currently focused on representation learning and computer vision systems.
 ---
 
 ## 🎓 Education
