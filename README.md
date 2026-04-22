@@ -7,6 +7,13 @@ I’m interested in machine learning, deep learning, and computer vision, with a
 
 ---
 
+## 🎓 Education
+
+* B.Sc. in Communication & Information Engineering
+  University of Science and Technology at Zewail City
+
+---
+
 ## 🛠 Skills
 
 * Python (NumPy, Pandas, Scikit-learn)
@@ -19,4 +26,4 @@ I’m interested in machine learning, deep learning, and computer vision, with a
 ## 📫 Contact
 
 * Email: [s-abdelhady.mahmoud@zewailcity.edu.eg](mailto:s-abdelhady.mahmoud@zewailcity.edu.eg)
-* LinkedIn: (linkedin.com/in/abdelhady-mohamed‬‏-1b1650196)
+* LinkedIn: [https://linkedin.com/in/abdelhady-mohamed-1b1650196](https://linkedin.com/in/abdelhady-mohamed-1b1650196)
