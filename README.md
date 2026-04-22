@@ -3,7 +3,9 @@
 🎓 Communication & Information Engineering Student
 📍 Giza, Egypt
 
-I’m interested in machine learning, deep learning, and computer vision, with a focus on the mathematical foundations behind AI systems.
+I’m interested in machine learning, deep learning, computer vision, and communication systems, with a focus on the mathematical foundations behind AI systems.
+
+🚀 Currently working on different projects in Deep Learning, Computer Vision, Embedded Systems, and Communication Engineering.
 
 ---
 
