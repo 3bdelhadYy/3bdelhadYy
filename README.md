@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Abdelhady Mostafa 👋
 
-<!--
-**3bdelhadYy/3bdelhadYy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Communication & Information Engineering Student
+📍 Giza, Egypt
 
-Here are some ideas to get you started:
+I’m interested in machine learning, deep learning, and computer vision, with a focus on the mathematical foundations behind AI systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Skills
+
+* Python (NumPy, Pandas, Scikit-learn)
+* Machine Learning & Deep Learning
+* Signal Processing & Probability
+* MATLAB
+
+---
+
+## 📫 Contact
+
+* Email: [s-abdelhady.mahmoud@zewailcity.edu.eg](mailto:s-abdelhady.mahmoud@zewailcity.edu.eg)
+* LinkedIn: (linkedin.com/in/abdelhady-mohamed‬‏-1b1650196)
